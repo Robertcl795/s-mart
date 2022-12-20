@@ -1,0 +1,7 @@
+{
+  "pexels": {
+    "apiKey": "563492ad6f91700001000001c8f5c2f8dd6a4689a8c119dc7cc6ed0a",
+    "pageSize": 15
+  },
+  "baseUrl": "https://api.pexels.com/v1"
+}
