@@ -2,7 +2,6 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-root',
-<<<<<<< HEAD
   template: `
     <!--The content below is only a placeholder and can be replaced.-->
     <div style="text-align:center" class="content">
@@ -27,10 +26,6 @@ import { Component } from '@angular/core';
     <router-outlet></router-outlet>
   `,
   styles: []
-=======
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.scss']
->>>>>>> bedc9b4025c87741d049ad7adfba312c8c2e092f
 })
 export class AppComponent {
   title = 's-mart';
